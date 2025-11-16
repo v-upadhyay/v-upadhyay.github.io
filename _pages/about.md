@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Vaibhav Upadhyay, a final year IDDDP (B.Tech. Aerospace Engineering + M.Tech. Centre for Systems and Control) student at the Indian Institute of Technology Bombay. I am privileged to be under the supervision of [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html), who has been mentoring me for the past two years, and I am also grateful to [Dr. Siddhartha Ganguly](https://sites.google.com/view/siddhartha-ganguly/home), whose mentorship has complemented this journey. Their combined support has been instrumental in shaping my academic growth. Outside academics, I enjoy trekking and nature photography as hobbies, capturing the world through my lens whenever I get the chance. Some of my favourite shots can be found here.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
