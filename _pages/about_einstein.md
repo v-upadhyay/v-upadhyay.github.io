@@ -7,7 +7,7 @@ I am Vaibhav Upadhyay, a final year IDDDP (B.Tech. Aerospace Engineering + M.Tec
 </strong>
 </p>
 
-- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
+\- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
