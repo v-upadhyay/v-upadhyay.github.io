@@ -410,8 +410,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-academic-visit-to-waga-lab-kitakyushu-institute-of-technology-fukuoka-japan-i-am-grateful-to-prof-hiroaki-wagatsuma-for-hosting-the-visit",
+          title: 'Academic visit to Waga Lab, Kitakyushu Institute of Technology, Fukuoka, Japan. I am...',
           description: "",
           section: "News",},{id: "news-our-patent-titled-method-amp-amp-system-for-autonomously-controlling-shaft-speed-of-gas-turbine-engines-using-non-linear-explicit-model-predictive-control-has-been-published-in-the-patent-office-journal-no-45-2024-dated-8-11-2024-on-page-103981",
           title: 'Our patent titled “Method &amp;amp;amp; System for Autonomously Controlling Shaft Speed of Gas...',
