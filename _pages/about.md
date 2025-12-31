@@ -37,7 +37,3 @@ I am Vaibhav Upadhyay, a final year IDDDP (B.Tech. Aerospace Engineering + M.Tec
 </p>
 
 \- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
