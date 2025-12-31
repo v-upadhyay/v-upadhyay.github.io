@@ -29,8 +29,6 @@ latest_posts:
 
 I am Vaibhav Upadhyay, a final year IDDDP (Bachelor of Technology in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) + Master of Technology at the [Centre for Systems and Control](https://www.sc.iitb.ac.in/)) student at the Indian Institute of Technology Bombay. I am privileged to be under the supervision of [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html), who has been mentoring me for the past two years, and I am also grateful to [Dr. Siddhartha Ganguly](https://sites.google.com/view/siddhartha-ganguly/home), whose mentorship has complemented this journey. Their combined support has been instrumental in shaping my academic growth. 
 
-I have been fortunate to have worked with [Prof. Dhwanil Shukla @ Low Speed Experimental Aerodynamics Lab](https://sites.google.com/iitb.ac.in/exp-aero-lab/) and [Prof. R. K. Pant @ Lighter than Air Systems Lab](https://www.aero.iitb.ac.in/ltasyslab/) on vision-based autonomous landing on a moving target, implemented in both simulation and hardware. This experience was significant in shaping my research interests and also underscored the importance of formal performance guarantees in algorithms, whether for vision-based localization, filtering, or control.
-
 Outside academics, I enjoy trekking and nature photography as hobbies, capturing the world through my lens whenever I get the chance. Some of my favourite shots can be found [here](https://www.instagram.com/_th_wind_/). Alongside my material pursuits, I have a growing interest in Vedanta philosophy. In this spirit, I hold to the following:
 
 <p align="center">
@@ -41,3 +39,7 @@ Outside academics, I enjoy trekking and nature photography as hobbies, capturing
 </p>
 
 \- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
+
+I have been fortunate to have worked with [Prof. Dhwanil Shukla @ Low Speed Experimental Aerodynamics Lab](https://sites.google.com/iitb.ac.in/exp-aero-lab/) and [Prof. R. K. Pant @ Lighter than Air Systems Lab](https://www.aero.iitb.ac.in/ltasyslab/) on vision-based autonomous landing on a moving target, implemented in both simulation and hardware. This experience was significant in shaping my research interests and also underscored the importance of formal performance guarantees in algorithms, whether for vision-based localization, filtering, or control.
+
+I was also part of the student-led team [UMIC](https://umiciitb.github.io/), where I worked on the mechatronics and controls subsystems. Through several competitions, I gained invaluable experience and support from teammates and seniors, and this engagement also played a key role in shaping my current interests.
