@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2025-01-10-parPDE/";
+            window.location.href = "/blog/2026/2025-01-01-parPDE/";
           
         },
       },{id: "post-a-post-with-math",
