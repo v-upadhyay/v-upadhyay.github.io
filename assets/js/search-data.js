@@ -71,16 +71,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-our-patent-titled-method-amp-amp-system-for-autonomously-controlling-shaft-speed-of-gas-turbine-engines-using-non-linear-explicit-model-predictive-control-has-been-published-in-the-patent-office-journal-no-45-2024-dated-8-11-2024-on-page-103981",
           title: 'Our patent titled “Method &amp;amp;amp; System for Autonomously Controlling Shaft Speed of Gas...',
           description: "",
           section: "News",},{id: "news-academic-visit-to-waga-lab-kitakyushu-institute-of-technology-fukuoka-japan-i-am-grateful-to-prof-hiroaki-wagatsuma-for-hosting-the-visit",
           title: 'Academic visit to Waga Lab, Kitakyushu Institute of Technology, Fukuoka, Japan. I am...',
+          description: "",
+          section: "News",},{id: "news-presented-my-master-s-thesis-phase-i-work-on-the-topic-of-linear-proxy-to-nonlinear-control-systems-for-constrained-feedback-synthesis",
+          title: 'Presented my Master’s Thesis Phase-I work on the topic of “Linear proxy to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
