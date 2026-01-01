@@ -9,44 +9,26 @@ nav_order: 5
 
 
 
-## Mathematics
-
-| | |
-| :--- | :--- |
-| Calculus I | Multivariable Calculus |
-| Calculus II | Lie Groups, Lie Algebras & Representations |
-| Differential Equation I | Real Analysis |
-| Differential Equation II | Measure Theory |
-| Linear Algebra | Functional Analysis |
-| Numerical Analysis | Partial Differential Equations |
-
-<br>
-
-## Control & Optimization
-
-| | |
-| :--- | :--- |
-| Signal and Feedback Systems | Optimization |
-| Nonlinear Dynamics | Optimization for Large-Scale Machine Learning |
-| Control of Nonlinear Dynamical Systems | Random Process in Learning & Control (Highest Scorer) |
-| Differential Geometric Method in Controls | Optimal Control Systems |
-| Analytical & Geometric Mechanics | Estimation on Lie Groups |
-| High Energy Physics and Systems (Highest Scorer) | |
-
-<br>
-
-## Aerospace Engineering
-
-| | |
-| :--- | :--- |
-| Introduction to Flight Mechanics | Vibrations and Structural Dynamics |
-| Thermodynamics and Propulsion | Aerospace Propulsion |
-| Incompressible Fluid Mechanics | Aerodynamics |
-| Solid Mechanics | Flight Mechanics II |
-| Aircraft Propulsion | Aerodynamics Laboratory |
-| Compressible Fluid Mechanics | Aircraft Propulsion Laboratory |
-| Aerospace Structural Mechanics | Aircraft Design |
-| Spaceflight Mechanics | Modeling and Simulation |
-| Aerospace Measurements Laboratory | Navigation and Guidance |
-| Control Theory | Control Systems Laboratory |
-| Aircraft Structures Laboratory | |
+| Mathematics | Control & Optimization | Aerospace Engineering |
+| :--- | :--- | :--- |
+| Calculus I | Signal and Feedback Systems | Introduction to Flight Mechanics |
+| Calculus II | Nonlinear Dynamics | Thermodynamics and Propulsion |
+| Differential Equation I | Control of Nonlinear Dynamical Systems | Incompressible Fluid Mechanics |
+| Differential Equation II | Differential Geometric Method in Controls | Solid Mechanics |
+| Linear Algebra | Analytical & Geometric Mechanics | Aircraft Propulsion |
+| Numerical Analysis | High Energy Physics and Systems (Highest Scorer) | Compressible Fluid Mechanics |
+| Multivariable Calculus | Optimization | Aerospace Structural Mechanics |
+| Lie Groups, Lie Algebras & Representations | Optimization for Large-Scale Machine Learning | Spaceflight Mechanics |
+| Real Analysis | Random Process in Learning & Control (Highest Scorer) | Aerospace Measurements Laboratory |
+| Measure Theory | Optimal Control Systems | Control Theory |
+| Functional Analysis | Estimation on Lie Groups | Aircraft Structures Laboratory |
+| Partial Differential Equations | | Vibrations and Structural Dynamics |
+| | | Aerospace Propulsion |
+| | | Aerodynamics |
+| | | Flight Mechanics II |
+| | | Aerodynamics Laboratory |
+| | | Aircraft Propulsion Laboratory |
+| | | Aircraft Design |
+| | | Modeling and Simulation |
+| | | Navigation and Guidance |
+| | | Control Systems Laboratory |
