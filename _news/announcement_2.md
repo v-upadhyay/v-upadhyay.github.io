@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my Master's Thesis Phase-I work on the topic of "Linear proxy to nonlinear control systems for constrained feedback synthesis".
+Presented my Master's Thesis Phase-I work on "Affine proxy to Nonlinear Control Systems for Constrained Feedback Synthesis".
