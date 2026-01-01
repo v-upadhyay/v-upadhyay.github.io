@@ -16,14 +16,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "In reverse chronological order. Copyright resides with the publisher in case of published articles. In all other cases, it resides with the author(s).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+        },{id: "dropdown-overview",
+              title: "Overview",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/overview/";
+              },
+            },{id: "dropdown-publications",
+              title: "Publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "nav-projects",
           title: "Projects",
           description: "A collection of your projects.",
           section: "Navigation",
