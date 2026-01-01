@@ -28,7 +28,7 @@ latest_posts:
 
 I am Vaibhav Upadhyay, a final year IDDDP (Bachelor of Technology in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) + Master of Technology at the [Centre for Systems and Control](https://www.sc.iitb.ac.in/)) student at the Indian Institute of Technology Bombay. I am privileged to be under the supervision of [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html), who has been mentoring me for the past two years, and I am also grateful to [Dr. Siddhartha Ganguly](https://sites.google.com/view/siddhartha-ganguly/home), whose mentorship has complemented this journey. Their combined support has been instrumental in shaping my academic growth. 
 
-Outside academics, I enjoy trekking and nature photography as hobbies, capturing the world through my lens whenever I get the chance. Some of my favourite shots can be found [here](https://www.instagram.com/_th_wind_/). Alongside my academic and outdoor pursuits, I have a growing interest in the history of Indian philosophy and ancient scriptures. In this spirit, I hold to the following:
+Outside academics, I enjoy trekking and nature photography as hobbies, capturing the world through my lens whenever I get the chance. A collection of my naive endeavours can be found [here](/photography/). Alongside my academic and outdoor pursuits, I have a growing interest in the history of Indian philosophy and ancient scriptures. In this spirit, I hold to the following:
 
 <p align="center">
 <strong>

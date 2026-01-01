@@ -31,8 +31,6 @@ nav_order: 5
 }
 </style>
 
-A collection of my naive endeavours can be found here.
-
 <div class="masonry-gallery">
   {% for file in site.static_files %}
     {% if file.path contains 'assets/img/gallery/' %}
