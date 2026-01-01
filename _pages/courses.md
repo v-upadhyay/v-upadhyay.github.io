@@ -33,4 +33,4 @@ nav_order: 5
 | | | Navigation and Guidance |
 | | | Control Systems Laboratory |
 
-* Highest Scorer
+An asterisk "*" indicates that the corresponding course was completed with the highest score.
