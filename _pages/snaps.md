@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photography
+title: Floral Captures
 permalink: /photography/
 nav: true
 nav_order: 5
