@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-infinite-dimensional-system-to-finite-dimensional-system-a-geometric-transformation",
+        
+          title: "Infinite-dimensional system to finite-dimensional system: A geometric transformation",
+        
+        description: "Coming soon....",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/parPDE/";
+          
+        },
+      },{id: "post-representations-in-quantum-control",
+        
+          title: "Representations in quantum control",
+        
+        description: "Coming Soon...",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/math/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
