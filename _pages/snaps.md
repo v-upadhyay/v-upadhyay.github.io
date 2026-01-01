@@ -31,8 +31,6 @@ nav_order: 5
 }
 </style>
 
-## My Gallery
-
 A collection of my naive endeavours can be found here.
 
 <div class="masonry-gallery">
