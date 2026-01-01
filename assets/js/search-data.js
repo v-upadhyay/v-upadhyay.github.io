@@ -55,11 +55,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/parPDE/";
           
         },
-      },{id: "post-a-post-with-math",
+      },{id: "post-representations-in-quantum-control",
         
-          title: "a post with math",
+          title: "Representations in quantum control",
         
-        description: "an example of a blog post with some math",
+        description: "Coming Soon...",
         section: "Posts",
         handler: () => {
           
