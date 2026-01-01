@@ -25,7 +25,7 @@ nav_order: 4
 | Lie Groups, Lie Algebras & Representations | Statistical Learning Theory<sup>†</sup> | Vibrations and Structural Dynamics |
 | Modern Theory of PDEs<sup>†</sup> | Online Learning and Optimization<sup>†</sup> | Aerospace Propulsion |
 | Fourier Analysis<sup>†</sup> | | Aerodynamics |
-| Reimannian Geometry<sup>†</sup> | | Flight Mechanics II |
+| Riemannian Geometry<sup>†</sup> | | Flight Mechanics II |
 | Finite Element Methods in PDE<sup>†</sup> | | Aerodynamics Laboratory |
 | | | Aircraft Propulsion Laboratory |
 | | | Aircraft Design |
