@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
+        },{id: "nav-photography",
+          title: "Photography",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photography/";
+          },
         },{id: "post-infinite-dimensional-system-to-finite-dimensional-system-a-geometric-transformation",
         
           title: "Infinite-dimensional system to finite-dimensional system: A geometric transformation",
