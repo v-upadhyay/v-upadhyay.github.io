@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-",
+        },{id: "post-infinite-dimensional-system-to-finite-dimensional-system-a-geometric-transformation",
         
-          title: "",
+          title: "Infinite-dimensional system to finite-dimensional system: A geometric transformation",
         
-        description: "",
+        description: "Coming soon....",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2025-01-01-parPDE/";
+            window.location.href = "/blog/2026/parPDE/";
           
         },
       },{id: "post-a-post-with-math",
