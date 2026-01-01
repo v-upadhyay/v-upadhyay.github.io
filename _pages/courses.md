@@ -34,4 +34,5 @@ nav_order: 5
 | | | Control Systems Laboratory |
 
 "*" indicates highest scorer.
+
 "<sup>†</sup>" indicates an ongoing course.
