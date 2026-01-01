@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infinite-dimensional system to finite-dimensional system: A geometric transformation
-date: 2026-01-01 11:12:00-0400
+date: 2026-01-01 19:00:00 +0530
 description: Coming soon....
 tags: dynamics geometry
 categories: sample-posts
