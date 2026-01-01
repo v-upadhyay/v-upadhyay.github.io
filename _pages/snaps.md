@@ -33,7 +33,7 @@ nav_order: 5
 
 ## My Gallery
 
-Here is a collection of my photos.
+A collection of my naive endeavours can be found here.
 
 <div class="masonry-gallery">
   {% for file in site.static_files %}
