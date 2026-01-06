@@ -25,8 +25,8 @@ nav_order: 4
 | Lie Groups & Lie Algebras | Advanced Topics in Optimization & ML<sup>†</sup> | Vibrations and Structural Dynamics |
 | Modern Theory of PDEs<sup>†</sup> | Online Learning and Optimization<sup>†</sup> | Aerospace Propulsion |
 | Fourier Analysis<sup>†</sup> | | Aerodynamics |
-| Riemannian Geometry<sup>†</sup> | | Flight Mechanics II |
-| Finite Element Methods in PDE<sup>†</sup> | | Aerodynamics Laboratory |
+| Finite Element Methods in PDE<sup>†</sup> | | Flight Mechanics II |
+| | | Aerodynamics Laboratory |
 | | | Aircraft Propulsion Laboratory |
 | | | Aircraft Design |
 | | | Modeling and Simulation |
