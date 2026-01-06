@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: VU-Blog # blog_name will be displayed in your blog page
-blog_description: Anything interesting that I came across at the weekends will be here.
+blog_description: Anything interesting that I came across at the weekends will be here. (This page is under construction)
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
