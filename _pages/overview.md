@@ -14,7 +14,6 @@ I am interested in developing tools for practically relevant problems using fund
 - Stochastic processes
 - Learning theory
 - Control theory
-- Optimal transport
 - Numerical optimization
 
 As part of my master’s thesis, I am investigating the interplay between mapping degree theory and constrained feedback maps.
