@@ -24,7 +24,7 @@ nav_order: 3
 | Partial Differential Equations | Estimation on Lie Groups | Aircraft Structures Laboratory |
 | Lie Groups & Lie Algebras | Advanced Topics in Optimization & ML<sup>†</sup> | Vibrations and Structural Dynamics |
 | Modern Theory of PDEs<sup>†</sup> | Online Learning and Optimization<sup>†</sup> | Aerospace Propulsion |
-| Fourier Analysis<sup>†</sup> | | Aerodynamics |
+| | | Aerodynamics |
 | Finite Element Methods in PDE<sup>†</sup> | | Flight Mechanics II |
 | | | Aerodynamics Laboratory |
 | | | Aircraft Propulsion Laboratory |
@@ -33,6 +33,6 @@ nav_order: 3
 | | | Navigation and Guidance |
 | | | Control Systems Laboratory |
 
-"*" indicates highest scorer.
+"*" indicates the highest scorer.
 
-"<sup>†</sup>" indicates an ongoing course.
+"<sup>†</sup>" indicates sit through in that particular course.
