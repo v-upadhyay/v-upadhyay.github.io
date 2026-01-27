@@ -19,3 +19,10 @@ I am interested in developing tools for practically relevant problems using fund
 As part of my master’s thesis, I am investigating the interplay between mapping degree theory and constrained feedback maps.
 
 
+<!-- I am interested in developing tools for practically relevant problems using fundamental ideas from pure mathematics, with particular emphasis on the the following areas:
+
+- Geometric and topological methods in control,
+- stochastic control formulations of learning problems, and
+- Connections to statistical mechanics and quantum theory in control.
+
+As part of my master’s thesis, I am investigating the interplay between mapping degree theory and constrained feedback maps. -->
