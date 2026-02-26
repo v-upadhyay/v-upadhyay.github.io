@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centre for Systems and Control</p>
+    <p>Centre for Systems & Control</p>
     <p>Indian Institute of Technology Bombay</p>
     <p>Mumbai, India - 400076</p>
 
