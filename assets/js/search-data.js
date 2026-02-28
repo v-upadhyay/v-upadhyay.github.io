@@ -9,21 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-interests",
-              title: "Interests",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/overview/";
-              },
-            },{id: "dropdown-publications",
-              title: "Publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
-              },
-            },{id: "nav-teaching",
+  },{id: "nav-teaching",
           title: "Teaching",
           description: "I have taught the following courses.",
           section: "Navigation",
