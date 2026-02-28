@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/photography/";
           },
-        },{id: "post-infinite-dimensional-system-to-finite-dimensional-system-a-geometric-transformation",
+        },{id: "post-finitary-approach-to-infinite-dimensional-systems-a-geometric-transformation",
         
-          title: "Infinite-dimensional system to finite-dimensional system: A geometric transformation",
+          title: "Finitary approach to infinite-dimensional systems: A geometric transformation",
         
         description: "Coming soon....",
         section: "Posts",
@@ -48,15 +48,15 @@ ninja.data = [{
             window.location.href = "/blog/2026/parPDE/";
           
         },
-      },{id: "post-representations-in-quantum-control",
+      },{id: "post-representations-in-control",
         
-          title: "Representations in quantum control",
+          title: "Representations in control",
         
         description: "Coming Soon...",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/math/";
+            window.location.href = "/blog/2026/repCont/";
           
         },
       },{id: "books-the-godfather",
