@@ -39,6 +39,8 @@ Outside academics, I enjoy trekking, hiking, exploring other cultures, and captu
 
 \- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
 
-I have been fortunate to have worked with [Prof. Dhwanil Shukla](https://www.aero.iitb.ac.in/home/people/faculty/dhwanil) and [Prof. R. K. Pant](https://www.aero.iitb.ac.in/home/people/faculty/rkpant) on vision-based autonomous landing on a moving target, implemented in both simulation and hardware. This experience was significant in shaping my research interests and also underscored the importance of formal performance guarantees in algorithms, whether for vision-based localization, filtering, or control.
+I am interested in developing mathematically rigorous tools for practically relevant problems, with particular emphasis on the interplay between differential topology, stochastic processes, constrained control theory, optimal transportation, and numerical optimization.
 
-I was also part of the student-led team [UMIC](https://umiciitb.github.io/), where I worked on the mechatronics and controls subsystems. Through several competitions, I gained invaluable experience and support from teammates and seniors, and this engagement also played a key role in shaping my current interests.
+<!-- I have been fortunate to have worked with [Prof. Dhwanil Shukla](https://www.aero.iitb.ac.in/home/people/faculty/dhwanil) and [Prof. R. K. Pant](https://www.aero.iitb.ac.in/home/people/faculty/rkpant) on vision-based autonomous landing on a moving target, implemented in both simulation and hardware. This experience was significant in shaping my research interests and also underscored the importance of formal performance guarantees in algorithms, whether for vision-based localization, filtering, or control.
+
+I was also part of the student-led team [UMIC](https://umiciitb.github.io/), where I worked on the mechatronics and controls subsystems. Through several competitions, I gained invaluable experience and support from teammates and seniors, and this engagement also played a key role in shaping my current interests. -->

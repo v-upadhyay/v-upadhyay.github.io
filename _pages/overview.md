@@ -18,16 +18,16 @@ I am interested in developing tools for practically relevant problems using fund
 
 As part of my master’s thesis, I am investigating the interplay between mapping degree theory and constrained feedback maps.
 
----
+<!-- --- -->
 
-## Publications
+<!-- ## Publications
 
 
 {% include bib_search.liquid %}
 
 <div class="publications">
 {% bibliography %}
-</div>
+</div> -->
 
 
 <!-- I am interested in developing tools for practically relevant problems using fundamental ideas from pure mathematics, with particular emphasis on the the following areas:
