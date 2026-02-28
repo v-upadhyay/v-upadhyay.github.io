@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /overview/
-title: Research Interest
+title: Research
 description: 
 nav: false
 nav_order: 1
@@ -17,6 +17,17 @@ I am interested in developing tools for practically relevant problems using fund
 - Numerical optimization
 
 As part of my master’s thesis, I am investigating the interplay between mapping degree theory and constrained feedback maps.
+
+---
+
+## Publications
+
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+{% bibliography %}
+</div>
 
 
 <!-- I am interested in developing tools for practically relevant problems using fundamental ideas from pure mathematics, with particular emphasis on the the following areas:
