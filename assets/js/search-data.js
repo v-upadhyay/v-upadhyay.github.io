@@ -70,12 +70,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-patent-titled-method-amp-amp-system-for-autonomously-controlling-shaft-speed-of-gas-turbine-engines-using-non-linear-explicit-model-predictive-control-has-been-published-in-the-patent-office-journal-no-45-2024-dated-8-11-2024-on-page-103981",
           title: 'Our patent titled “Method &amp;amp;amp; System for Autonomously Controlling Shaft Speed of Gas...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-academic-visit-to-waga-lab-kitakyushu-institute-of-technology-fukuoka-japan-i-am-grateful-to-prof-hiroaki-wagatsuma-for-hosting-the-visit",
+          section: "News",},{id: "news-academic-visit-to-waga-lab-kitakyushu-institute-of-technology-fukuoka-japan-i-am-grateful-to-prof-hiroaki-wagatsuma-for-hosting-the-visit",
           title: 'Academic visit to Waga Lab, Kitakyushu Institute of Technology, Fukuoka, Japan. I am...',
           description: "",
           section: "News",},{id: "news-received-a-phd-offer-from-the-university-of-illinois-urbana-champaign-as-a-research-assistant-under-prof-daniel-liberzon",
@@ -83,6 +78,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-awarded-the-ece-distinguished-research-fellowship-for-doctoral-studies-at-the-university-of-illinois-urbana-champaign",
           title: 'Awarded the ECE Distinguished Research Fellowship for doctoral studies at the University of...',
+          description: "",
+          section: "News",},{id: "news-i-am-excited-to-join-the-graduate-school-of-advanced-science-and-engineering-at-hiroshima-university-as-a-short-term-exchange-student-until-1-may-2026-where-i-will-be-pursuing-collaborative-research-on-audio-signals-under-the-supervision-of-prof-masaaki-nagahara-and-prof-debasish-chatterjee",
+          title: 'I am excited to join the Graduate School of Advanced Science and Engineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
