@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received a PhD offer from the University of Illinois Urbana-Champaign as a Research Assistant under Prof. Daniel Liberzon.
+Received a PhD offer from the University of Illinois Urbana-Champaign as a Research Assistant under [Prof. Daniel Liberzon](https://liberzon.csl.illinois.edu/).
