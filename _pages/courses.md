@@ -22,9 +22,9 @@ nav_order: 2
 | Measure Theory | Random Process in Learning & Control* | Aerospace Measurements Laboratory |
 | Functional Analysis | Optimal Control Systems | Control Theory |
 | Partial Differential Equations | Estimation on Lie Groups | Aircraft Structures Laboratory |
-| Lie Groups & Lie Algebras | Advanced Topics in Optimization & ML<sup>†</sup> | Vibrations and Structural Dynamics |
-| Modern Theory of PDEs<sup>†</sup> | Online Learning and Optimization<sup>†</sup> | Aerospace Propulsion |
-| Mathematical Theory of Finite Elements<sup>†</sup> | | Aerodynamics |
+| Lie Groups & Lie Algebras | | Vibrations and Structural Dynamics |
+| | | Aerospace Propulsion |
+| | | Aerodynamics |
 | | | Flight Mechanics II |
 | | | Aerodynamics Laboratory |
 | | | Aircraft Propulsion Laboratory |
@@ -34,5 +34,3 @@ nav_order: 2
 | | | Control Systems Laboratory |
 
 "*" indicates the highest scorer.
-
-"<sup>†</sup>" indicates sit through in that particular course.
