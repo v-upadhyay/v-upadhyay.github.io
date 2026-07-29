@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our patent (with S. Ganguly and D. Chatterjee), “Method and system for autonomously controlling shaft-speed of gas turbine engines using nonlinear explicit model predictive control”, has been granted as an Indian Patent, with Patent number 593491 and Application number 202421064140. 
+Our patent (with [S. Ganguly](https://sites.google.com/view/siddhartha-ganguly/home) and [D. Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html)), “Method and system for autonomously controlling shaft-speed of gas turbine engines using nonlinear explicit model predictive control”, has been granted as an Indian Patent, with Patent number 593491 and Application number 202421064140. 

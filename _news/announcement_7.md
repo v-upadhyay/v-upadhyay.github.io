@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our article (with S. Ganguly and D. Chatterjee), “Exact algorithmic solutions to a class of constrained optimal control problems via lossless convexification for digital control” got published in [Automatica](https://www.sciencedirect.com/journal/automatica), doi: [10.1016/j.automatica.2026.113169](https://doi.org/10.1016/j.automatica.2026.113169).
+Our article (with [S. Ganguly](https://sites.google.com/view/siddhartha-ganguly/home) and [D. Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html)), “[Exact algorithmic solutions to a class of constrained optimal control problems via lossless convexification for digital control](https://doi.org/10.1016/j.automatica.2026.113169)” got accepted in [Automatica](https://www.sciencedirect.com/journal/automatica).
