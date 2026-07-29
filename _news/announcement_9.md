@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received Bachelor of Technology in Aerospace Engineering with Honours and Master of Technology in Systems and Control Engineering.
+Received Bachelor of Technology in [Aerospace Engineering](https://www.aero.iitb.ac.in/) with Honours and Master of Technology in [Systems and Control Engineering](https://www.sc.iitb.ac.in/) from [Indian Institute of Technology Bombay](https://www.iitb.ac.in/).
