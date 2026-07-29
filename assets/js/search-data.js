@@ -82,7 +82,7 @@ ninja.data = [{
           section: "News",},{id: "news-presented-a-talk-titled-constrained-minimax-density-transportation-for-linear-parabolic-systems-at-the-aspire-cpds-workshop-on-control-and-optimization-of-complex-systems-held-at-hiroshima-university-japan",
           title: 'Presented a talk titled “Constrained Minimax Density Transportation for Linear Parabolic Systems” at...',
           description: "",
-          section: "News",},{id: "news-our-article-with-s-ganguly-and-d-chatterjee-exact-algorithmic-solutions-to-a-class-of-constrained-optimal-control-problems-via-lossless-convexification-for-digital-control-got-published-in-automatica-doi-10-1016-j-automatica-2026-113169",
+          section: "News",},{id: "news-our-article-with-s-ganguly-and-d-chatterjee-exact-algorithmic-solutions-to-a-class-of-constrained-optimal-control-problems-via-lossless-convexification-for-digital-control-got-accepted-in-automatica",
           title: 'Our article (with S. Ganguly and D. Chatterjee), “Exact algorithmic solutions to a...',
           description: "",
           section: "News",},{id: "news-our-patent-with-s-ganguly-and-d-chatterjee-method-and-system-for-autonomously-controlling-shaft-speed-of-gas-turbine-engines-using-nonlinear-explicit-model-predictive-control-has-been-granted-as-an-indian-patent-with-patent-number-593491-and-application-number-202421064140",
