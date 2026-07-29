@@ -88,7 +88,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-patent-with-s-ganguly-and-d-chatterjee-method-and-system-for-autonomously-controlling-shaft-speed-of-gas-turbine-engines-using-nonlinear-explicit-model-predictive-control-has-been-granted-as-an-indian-patent-with-patent-number-593491-and-application-number-202421064140",
           title: 'Our patent (with S. Ganguly and D. Chatterjee), “Method and system for autonomously...',
           description: "",
-          section: "News",},{id: "news-received-bachelor-of-technology-in-aerospace-engineering-with-honours-and-master-of-technology-in-systems-and-control-engineering-from-indian-institute-of-technology-bombay",
+          section: "News",},{id: "news-received-bachelor-of-technology-in-aerospace-engineering-with-honours-and-master-of-technology-in-systems-and-control-engineering-from-the-indian-institute-of-technology-bombay",
           title: 'Received Bachelor of Technology in Aerospace Engineering with Honours and Master of Technology...',
           description: "",
           section: "News",},{id: "projects-project-1",
