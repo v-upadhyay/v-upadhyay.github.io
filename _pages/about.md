@@ -8,10 +8,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Coordinated Science Laboratory</p>
-    <p>University of Illinois Urbana-Champaign</p>
-    <p>Urbana, IL 61801</p>
-    <p>Electronic: vu11@illinois.edu</p>
+    <div style="font-size: 0.85rem; line-height: 1.3;">
+      <p>Coordinated Science Laboratory</p>
+      <p>University of Illinois Urbana-Champaign</p>
+      <p>Urbana, IL 61801</p>
+      <p>Electronic: vu11@illinois.edu</p>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
