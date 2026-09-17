@@ -8,9 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Centre for Systems & Control</p>
-    <p>Indian Institute of Technology Bombay</p>
-    <p>Mumbai, India - 400076</p>
+    <p>Coordinated Science Laboratory</p>
+    <p>University of Illinois Urbana-Champaign</p>
+    <p>Urbana, IL 61801</p>
+    <p>Electronic: vu11@illinois.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Vaibhav Upadhyay, a final year IDDDP (Bachelor of Technology in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) + Master of Technology at the [Centre for Systems and Control](https://www.sc.iitb.ac.in/)) student at the Indian Institute of Technology Bombay. I am privileged to be under the supervision of [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html), who has been mentoring me for the past two years, and I am also grateful to [Dr. Siddhartha Ganguly](https://sites.google.com/view/siddhartha-ganguly/home), whose mentorship has complemented this journey. Their combined support has been instrumental in shaping my academic growth. Beginning in Fall 2026, I will join the PhD program at the University of Illinois Urbana-Champaign. I will conduct my doctoral research under the supervision of [Prof. Daniel Liberzon](https://liberzon.csl.illinois.edu).
+Hello! I'm Vaibhav, a first-year PhD student in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by [Prof. Daniel Liberzon](https://liberzon.csl.illinois.edu).
+
+I completed my Bachelor of Technology in [Aerospace Engineering](https://www.aero.iitb.ac.in/home/) and Master of Technology at the [Centre for Systems and Control](https://www.sc.iitb.ac.in/) at the Indian Institute of Technology Bombay under the supervision of [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html).
 
 Outside academics, I enjoy trekking, hiking, exploring other cultures, and capturing the world through my lens whenever I get the chance. A collection of my naive endeavours can be found [here](/photography/). Alongside my academic and outdoor pursuits, I have a growing interest in the history of Indian philosophy and ancient scriptures. In this spirit, I hold to the following:
 
@@ -39,4 +42,4 @@ Outside academics, I enjoy trekking, hiking, exploring other cultures, and captu
 
 \- a reminder to seek wisdom over the mere pursuit of results (~Bhagavad Gita, Verse 49, Sankhya Yoga).
 
-I am interested in developing mathematically rigorous tools for practically relevant problems, with particular emphasis on the interplay between differential topology, stochastic processes, control theory, optimal transportation, and numerical optimization.
+I am interested in developing mathematically rigorous tools for practically relevant problems, with particular emphasis on the interplay between differential topology, control theory, stochastic processes, optimal transportation, and numerical optimization.
