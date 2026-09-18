@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-size: 0.65rem; line-height: 1.3;">
+    <div style="font-size: 0.7rem; line-height: 1.3;">
       <p>Coordinated Science Laboratory</p>
       <p>University of Illinois Urbana-Champaign</p>
       <p>Urbana, IL 61801</p>
