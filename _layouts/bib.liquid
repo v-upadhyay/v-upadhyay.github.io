@@ -11,7 +11,7 @@
     {%- if entry.journal or entry.booktitle %}<em>{{ entry.journal }}{{ entry.booktitle }}</em>, {% endif -%}
     {{ entry.year }}
   </div>
-  {%- if entry.note %}
-  <div class="note">{{ entry.note }}</div>
+  {%- if entry.additional_info %}
+  <div class="note">{{ entry.additional_info | markdownify }}</div>
   {%- endif %}
 </div>
